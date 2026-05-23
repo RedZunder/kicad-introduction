@@ -1,0 +1,3 @@
+[submodule "KiCad-DesignRules"]
+	path = KiCad-DesignRules
+	url = https://github.com/labtroll/KiCad-DesignRules
