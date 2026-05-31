@@ -5185,48 +5185,6 @@
 			)
 		)
 	)
-	(sheet
-		(at 22.86 52.07)
-		(size 22.86 40.64)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "cdc4a552-e492-4a45-b470-314adf26a78c")
-		(property "Sheetname" "bad_design"
-			(at 22.86 51.3584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "bad_design.kicad_sch"
-			(at 22.86 93.2946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "kicad intro"
-				(path "/32588871-82df-415f-b692-9d5306434797"
-					(page "2")
-				)
-			)
-		)
-	)
 	(sheet_instances
 		(path "/"
 			(page "1")
